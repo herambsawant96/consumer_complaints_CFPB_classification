@@ -9,7 +9,7 @@ link : https://www.kaggle.com/datasets/shashwatwork/consume-complaints-dataset-f
 
 columns :
 
-# 		index
+\# 		index
 product 	type of product
 narrative	complaint text
 
