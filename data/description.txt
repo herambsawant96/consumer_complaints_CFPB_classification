@@ -1,0 +1,24 @@
+Context
+
+The Consumer Financial Protection Bureau (CFPB) is a federal U.S. agency that acts as a mediator when disputes arise between financial institutions and consumers. Via a web form, consumers can send the agency a narrative of their dispute. An NLP model would make the classification of complaints and their routing to the appropriate teams more efficient than manually tagged complaints.
+
+columns :
+
+# 		index
+product 	type of product
+narrative	complaint text
+
+
+
+
+
+link : https://www.kaggle.com/datasets/shashwatwork/consume-complaints-dataset-fo-nlp
+
+
+Acknowledgements
+
+Many thanks to Author halpert3 for providing us the Clean Dataset- Github URL.
+
+Data is organised by CFPB.
+
+special thanks to Shashwat Tiwari for uploading the dataset to Kaggle
